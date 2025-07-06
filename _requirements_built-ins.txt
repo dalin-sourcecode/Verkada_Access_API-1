@@ -1,0 +1,15 @@
+# Built-in Python Libraries Used in This Project
+# These libraries come with Python installation - no pip install needed
+
+argparse    # Command line argument parsing (ESSENTIAL_instance.py)
+json        # JSON data handling (METHOD_func.py)
+pprint      # Pretty printing for formatted output (multiple files)
+random      # Random number generation for fake emails (METHOD_func.py)
+sys         # System-specific parameters (ESSENTIAL_instance.py)
+
+# Usage in project:
+# - argparse: CLI interface for running different operations
+# - json: Creating JSON payloads for API requests
+# - pprint: Displaying lists and data structures in readable format
+# - random: Generating random numbers for fake email addresses
+# - sys: System utilities (imported but not directly used in current version) 
